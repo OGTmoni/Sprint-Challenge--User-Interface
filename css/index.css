@@ -144,3 +144,20 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+.class boxes-box1{
+    display: flex; 
+    color: teal;
+}
+
+.nav {
+	display: flex;
+    justify-content: space-between;
+    width: 83%;
+}
+
+.container headers{
+    display: flex;
+    justify-content: flex-start;
+    width: 20px;
+}
