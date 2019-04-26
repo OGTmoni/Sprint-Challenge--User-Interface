@@ -160,4 +160,15 @@ footer nav a {
     display: flex;
     justify-content: flex-start;
     width: 20px;
+    padding: 0%;
+}
+
+.pics{
+    display: flex;
+    justify-content: center;
+}
+
+.paragraphs{
+    display: flex;
+    justify-content: center;
 }
