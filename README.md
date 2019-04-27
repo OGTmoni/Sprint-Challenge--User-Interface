@@ -33,7 +33,7 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
-I would say Semantic code is the joke everyone can laugh along to and non-semantic code is the inside joke only a few people get. Semantic is the language everyone will speak and non-semantic is the language only a few know. 
+Semantic HTML desrcibes meaning to both the browser and developer; makes HTML markup readable on multiple platforms. 
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 A block has some whitespace above and below it and tolerates no HTML elements next to it, except when ordered otherwise (by adding a float declaration to another element, for instance).
