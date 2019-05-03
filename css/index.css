@@ -249,7 +249,8 @@ footer nav a {
 	background-color: #F4A460;
 }
 
-.border-top: dotted 1px;{
+.border-top: dotted 1px {
     display: flex;
     flex-direction: column;
+    margin: 2.5%;
 }
